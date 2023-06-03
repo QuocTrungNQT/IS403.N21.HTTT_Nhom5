@@ -52,9 +52,9 @@
 | 5  | Lê Hoàng Duyên    | 20521252 |[Duyên Hoàng Lê](https://www.facebook.com/profile.php?id=100012111349079)     |0395309824 | Holt-Winter, Linear Regression |
 ## <h2 id="material">Nguồn dự liệu</h2>
 - Dữ liệu:<br/>
-  + Dữ liệu về giá chứng khoán theo từng ngày của 3 công ty Amazon, Apple, Netflix từ 7/2017 đến 6/2023. <br/>
+  + Dữ liệu về giá chứng khoán theo từng ngày của 3 công ty Amazon, Apple, Netflix từ 12/2017 đến 6/2023. <br/>
   + Nguồn dữ liệu: trên Yahoo ! Finance. <br/>
-  + Trong nghiên cứu này, chúng tôi sẽ dự đoán giá đóng cửa của 30 ngày sau đó cụ thể là từ ngày 1/7/2023 đến 30/1/2023. <br/>
+  + Trong nghiên cứu này, chúng tôi sẽ dự đoán giá đóng cửa của 30 ngày sau đó cụ thể là từ ngày 1/12/2023 đến 31/5/2023. <br/>
 - Tool: <br/>
   Sử dụng Visual Studio Code, Google Colab, Anaconda, Python. <br/>
 - Độ chia dữ liệu: <br/>
