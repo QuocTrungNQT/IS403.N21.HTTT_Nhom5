@@ -38,7 +38,10 @@
   <!-- ABOUT THE PROJECT -->
 ## <h2 id="abstract">Abstract</h2>
 ## <h2 id="introduce">Giới thiệu</h2>
-## <h2 id="memberslist">Các thành viên tham gia paper</h2>
+  <p>Chứng khoán là một trong những lĩnh vực không còn quá xa lạ đối với các nhà đầu tư và doanh nghiệp lớn. Cổ phiếu là một loại chứng khoán và là một phương tiện tài chính phổ biến và quan trọng trong thị trường tài chính. Những biến động của cổ phiếu là trong những điều khó để dự đoán chính xác, gây khó khăn cho các doanh nghiệp trong việc định giá cổ phiếu.</p>
+  <p>Mục đích của việc định giá cổ phiếu giúp doanh nghiệp phân tích được tìm năng của cổ phiếu từ đó đưa ra những quyết định phù hợp. Do vậy việc dự đoán chính xác giá cổ phiếu là một trong những yếu tố rất quan trọng giúp đưa ra các quyết định trong tương lai. Trong nghiên cứu này, chúng tôi sử dụng các mô hình ARIMA, Linear Regression, LSTM, RNN, GRU, Holt-Winters, Kalman Filter (KF), Dynamic Factor Model (DFM), Time Series Anomaly Detection, Random Forest (RF) để dự báo giá mở cửa của cổ phiếu.</p>
+  <p>Việc lựa chọn đề tài về cổ phiếu để phân tích và đưa ra dự đoán tương lai vì cổ phiếu cung cấp các thông tin kinh doanh phản ánh được hiệu quả của doanh nghiệp, các thông tin về hoạt động kinh doanh cũng như kế hoạch tương lai. Cổ phiếu có tính biến động cao giúp việc sử dụng các thông tin này để dự đoán về hành vi giá cả cũng như xu hướng trong tương lai. Dữ liệu cổ phiếu thường có sẵn và dễ dàng truy cập, điều này tạo điều kiện thuận lợi cho các nhà phân tích thu thập và sử dụng trong phân tích, dự đoán.</p>
+<h2 id="memberslist">Các thành viên tham gia paper</h2>
  
 | STT| Họ tên            | MSSV     | FB                                                                           |   SĐT     |            Nhiệm vụ            |
 |:--:|-------------------|----------|------------------------------------------------------------------------------|-----------|--------------------------------|
