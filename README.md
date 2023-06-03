@@ -7,7 +7,7 @@
   <a href="">
   </a>
 
-  <h3 align="center">Paper Intermediate Statistical Analyst</h3>
+  <h3 align="center">Sử dụng mô hình học máy để dự đoán giá cổ phiếu</h3>
 
   <p align="center">
     <a href="https://github.com/QuocTrungNQT/IS403.N21.HTTT_Nhom5"><strong>Khám phá »</strong></a>
