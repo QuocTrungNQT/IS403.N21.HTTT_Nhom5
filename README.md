@@ -36,7 +36,7 @@
   
   
   <!-- ABOUT THE PROJECT -->
-## <h2 id="abstract">Abstract</h2>
+## <h2 id="abstract">Tóm tắt</h2>
 ## <h2 id="introduce">Giới thiệu</h2>
   <p>Chứng khoán là một trong những lĩnh vực không còn quá xa lạ đối với các nhà đầu tư và doanh nghiệp lớn. Cổ phiếu là một loại chứng khoán và là một phương tiện tài chính phổ biến và quan trọng trong thị trường tài chính. Những biến động của cổ phiếu là trong những điều khó để dự đoán chính xác, gây khó khăn cho các doanh nghiệp trong việc định giá cổ phiếu.</p>
   <p>Mục đích của việc định giá cổ phiếu giúp doanh nghiệp phân tích được tìm năng của cổ phiếu từ đó đưa ra những quyết định phù hợp. Do vậy việc dự đoán chính xác giá cổ phiếu là một trong những yếu tố rất quan trọng giúp đưa ra các quyết định trong tương lai. Trong nghiên cứu này, chúng tôi sử dụng các mô hình ARIMA, Linear Regression, LSTM, RNN, GRU, Holt-Winters, Kalman Filter (KF), Dynamic Factor Model (DFM), Time Series Anomaly Detection, Random Forest (RF) để dự báo giá mở cửa của cổ phiếu.</p>
@@ -50,7 +50,7 @@
 | 3  | Đỗ Mạnh Tuấn      | 20522108 |[Mạnh Tuấn](https://www.facebook.com/23072002td)                              |0355978908 | Kalman Filter, LSTM            |
 | 4  | Nguyễn Đức Thuần  | 20521993 |[Nguyễn Thuần](https://www.facebook.com/profile.php?id=100091965523539)       |0886339784 | Random Forest, Arima           |
 | 5  | Lê Hoàng Duyên    | 20521252 |[Duyên Hoàng Lê](https://www.facebook.com/profile.php?id=100012111349079)     |0395309824 | Holt-Winter, Linear Regression |
-## <h2 id="material">Nguồn dự liệu</h2>
+## <h2 id="material">Nguồn dữ liệu</h2>
 - Dữ liệu:<br/>
   + Dữ liệu về giá chứng khoán theo từng ngày của 3 công ty Amazon, Apple, Netflix từ 12/2017 đến 6/2023. <br/>
   + Nguồn dữ liệu: trên Yahoo ! Finance. <br/>
